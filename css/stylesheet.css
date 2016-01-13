@@ -141,3 +141,6 @@ hr.small {
   margin: auto;
   width: 60%;
 }
+.lead{
+  text-align: left;
+}
