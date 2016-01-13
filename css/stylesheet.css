@@ -132,3 +132,12 @@ hr.small {
         transform: scale(1);
     }
 }
+
+.social{
+  background-color: #337ab7;
+  color: white;
+}
+.instas{
+  margin: auto;
+  width: 60%;
+}
