@@ -19,13 +19,7 @@ body {
     font-weight: 700;
     display: inline;
 }
-.carousel img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  height: 500px;
-}
+
 hr.small {
     max-width: 100px;
 }
@@ -56,9 +50,7 @@ hr.small {
     background-size: cover;
     -o-background-size: cover;
 }
-.logo{
 
-}
 .btn {
     border-radius: 0;
     font-weight: 400;
@@ -140,9 +132,8 @@ hr.small {
     }
 }
 
-.social{
-  background-color: #337ab7;
-  color: white;
+.image-size-correction img{
+  width: 100%;
 }
 .instas{
   margin: auto;
